@@ -1,0 +1,28 @@
+@media only screen and (max-width: 740px) {
+	h1 { font-size: 4.5em; }
+	h3 { font-size: 2.2em; }
+	#info { float: none; display: block; text-align: center; }
+	#photo {
+		float: none;
+		display: block;
+		text-align: center;
+	}
+	#w { padding: 20px 15px; }
+	p { padding-left: 5px; }
+	ul li {
+		line-height: 1.2em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	h2 { display: block; text-align: center; }
+	ul li {
+		margin-left: 22px;
+		line-height: 1.2em;
+	}
+}
+
+/** iPhone only **/
+@media screen and (max-device-width: 480px) {
+	/*ul li { width: 150px; }*/
+}
