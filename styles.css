@@ -17,8 +17,6 @@ ul li { display: list-item; margin-left: 50px; vertical-align: middle; backgroun
 
 img { border: 0; max-width: 100%; }
 
-#title { color: #5582d6;}
-
 a { color: #5582d6; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
