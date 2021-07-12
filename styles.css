@@ -26,7 +26,7 @@ a:hover { text-decoration: underline; }
 header { width: 100%; }
 
 /** @group personal settings **/
-#info { float: left; margin-bottom: 12px; }
+#info { float: left; margin-top:20px; margin-bottom: 10px; }
 #photo { float: right; }
 #photo img {
 -webkit-border-radius: 3px;
