@@ -21,10 +21,10 @@ a { color: #5582d6; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 /** @group core layout **/
-/*#w { margin: 0px auto; padding: 20px 40px; padding-top: 35px; background: #fff; width: 90%; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }*/
+#w { margin: 0px auto; padding: 20px 40px; padding-top: 35px; background: #fff; width: 90%; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
 
-#w { width: 1115px; margin: 0px auto; padding: 20px 40px; padding-top: 35px; background: #fff; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
-
+/*#w { width: 1115px; margin: 0px auto; padding: 20px 40px; padding-top: 35px; background: #fff; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
+*/
 header { width: 100%; }
 
 /** @group personal settings **/
