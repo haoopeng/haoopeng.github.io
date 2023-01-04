@@ -29,7 +29,7 @@ header { width: 100%; }
 
 /** @group personal settings **/
 #info { float: left; margin-top:20px; margin-bottom: 10px; }
-#photo { float: right; }
+#photo { float: right; margin-right:20px; }
 #photo img {
 -webkit-border-radius: 3px;
 -moz-border-radius: 3px;
