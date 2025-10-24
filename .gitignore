@@ -2,8 +2,6 @@
 *.sh
 
 # LaTeX
-*.tex
-*.bib
 *.cls
 *.aux
 *.bcf
@@ -17,14 +15,6 @@
 *.out
 *.run.xml
 *.log
-
-# Office files
-*.docx
-*.doc
-*.ppt
-*.pptx
-*.xls
-*.xlsx
 
 # Jupyter
 .ipynb_checkpoints/
